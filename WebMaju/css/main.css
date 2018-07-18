@@ -2347,3 +2347,10 @@ input.num-product::-webkit-inner-spin-button {
 }
 
 
+
+
+.mp3{
+      max-height: 50px !important;
+    /* max-width: 100px; */
+    margin-left: 30px !important;
+}
